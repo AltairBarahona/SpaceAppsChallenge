@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SpaceMission.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f771daddf61de5041b8e69b1240629ab, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6ce5576490158d748a4a5fa8c5a189b1, type: 2}
