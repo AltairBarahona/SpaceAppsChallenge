@@ -858,7 +858,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Tu misi\xF3n consiste en seguir la trayectoria correcta para llegar a
     Marte utilizando el impulso de la Luna.\nTendr\xE1s botones rojos para controlar
-    el movimiento de la nave y rayos X para mejorar la visibilidadt"
+    el movimiento de la nave y rayos X para mejorar la visibilidad"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8f5aeb9c6de7614db2631011b869bc3, type: 2}
   m_sharedMaterial: {fileID: -5839354330806206608, guid: b8f5aeb9c6de7614db2631011b869bc3, type: 2}
